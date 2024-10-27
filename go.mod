@@ -1,1 +1,2 @@
-module github/s4bb4t/protos
+module github.com/s4bb4t/protos
+
